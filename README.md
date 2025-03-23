@@ -85,3 +85,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:34d399,100:3b82f6" />
 </p>
+
+![Vue](https://img.shields.io/badge/Vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
