@@ -2,7 +2,7 @@
 <h1 align="center">
   Привет! Я Богдан 👋
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Frontend+Developer;Люблю+UI%2FUX+и+анимации;Пишу+чистый+и+живой+код" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Frontend+Developer;Пишу+код+по+наитию+сверху;Дебажу,+как+велит+Боженька;Фронт+—+это+искусство,+а+я+—+его+руки;Двигаюсь+по+дизайну,+как+по+вере;Ошибки+мне+не+страшны,+я+их+благословляю"
 </h1>
 
 ---
